@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
-def call(String test='none') {
+def call() {
   bat 'cd build && ctest'
 }
