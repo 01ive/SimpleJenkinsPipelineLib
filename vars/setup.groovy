@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
 
 def get_branch() {
-    return 'feature/jenkins'
+    return 'master'
 }
 
 def get_url() {
